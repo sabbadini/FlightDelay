@@ -1,4 +1,5 @@
-#--> https://gist.github.com/martinwicke/6838c23abdc53e6bcda36ed9f40cff39
+# https://github.com/sabbadini/FlightDelay/blob/master/flights.py
+# inspired by https://gist.github.com/martinwicke/6838c23abdc53e6bcda36ed9f40cff39
 
 from __future__ import print_function
 from __future__ import division
